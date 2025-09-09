@@ -10,6 +10,12 @@ It contains
   * Grafana https://grafana.com
   * Prometheus https://prometheus.io
 
+# Manual actions for purpose of demonstration
+  * Add the following gist as prometheus.yml in the root of the docker compose directory https://gist.github.com/Surfrdan/9751c50795d378b4f86455abe128105b#file-prometheus-yml
+  * Add Prometheus config to docker-compose.yml
+  * Add Grafana config to docker-compose.yml 
+
+
 # Starting the stack
 Within this directory, do:
 
